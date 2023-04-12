@@ -1,14 +1,14 @@
 # Deep Learning course
 
 Содержание курса
-| Лекция  |
-| ------------- |
-| [Введение](2023_spring/lecture1)  |
-| [Back propagation + PyTorch](2023_spring/lecture2)  |
-| [CNN](2023_spring/lecture3)  |
-| [Методы оптимизации](2023_spring/lecture4)  |
-| [Глубинные нейронные сети](2023_spring/lecture5)  |
-| [Детектирование объектов на изображении](2023_spring/lecture6)  |
-| [Сегментация изображений](2023_spring/lecture7)  |
-| [Анализ нейронные сетей + Metric Learning](2023_spring/lecture8)  ||
-| [RNN](2023_spring/lecture9)  |
+| # | Лекция  |
+| --- | ------------- |
+| 01 | [Введение](2023_spring/lecture1)  |
+| 02 | [Back propagation + PyTorch](2023_spring/lecture2)  |
+| 03 | [CNN](2023_spring/lecture3)  |
+| 04 | [Методы оптимизации](2023_spring/lecture4)  |
+| 05 | [Глубинные нейронные сети](2023_spring/lecture5)  |
+| 06 | [Детектирование объектов на изображении](2023_spring/lecture6)  |
+| 07 | [Сегментация изображений](2023_spring/lecture7)  |
+| 08 | [Анализ нейронные сетей + Metric Learning](2023_spring/lecture8)  ||
+| 09 | [RNN](2023_spring/lecture9)  |
