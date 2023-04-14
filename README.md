@@ -12,3 +12,4 @@
 | 07 | [Сегментация изображений](2023_spring/lecture7)  |
 | 08 | [Анализ нейронные сетей + Metric Learning](2023_spring/lecture8)  ||
 | 09 | [RNN](2023_spring/lecture9)  |
+| 10 | [NLP](2023_spring/lecture10)  |
