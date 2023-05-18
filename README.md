@@ -14,3 +14,4 @@
 | 09 | [RNN](2023_spring/lecture9)  |
 | 10 | [NLP](2023_spring/lecture10)  |
 | 11 | [GANs](2023_spring/lecture11)  |
+| 12 | [VAE](2023_spring/lecture12)  |
