@@ -15,3 +15,5 @@
 | 10 | [NLP](2023_spring/lecture10)  |
 | 11 | [GANs](2023_spring/lecture11)  |
 | 12 | [VAE](2023_spring/lecture12)  |
+| 13 | [RL](2023_spring/lecture13)  |
+| 14 | [GNN](2023_spring/lecture14)  |
