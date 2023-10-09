@@ -6,7 +6,7 @@
 
 ## Домашнее задание
 
-В данном задании вам предлагается решить стандартную задачу детекции
+В данном задании вам предлагается решить стандартную задачу детекции мячей
 
 1. Выбрать предобученную модель: https://pytorch.org/vision/stable/models.html , https://paperswithcode.com/sota/object-detection-on-coco
 2. Создать класс датасета и даталоадера: https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
