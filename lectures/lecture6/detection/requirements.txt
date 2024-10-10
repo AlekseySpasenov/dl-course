@@ -1,0 +1,10 @@
+torch
+torchvision
+seaborn
+numpy
+opencv-python
+tqdm
+Pillow
+pycocotools
+scikit-image
+mean_average_precision
