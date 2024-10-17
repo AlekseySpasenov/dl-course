@@ -9,7 +9,7 @@
 | 04 | [Методы оптимизации](lectures/lecture4) |
 | 05 | [Глубинные нейронные сети](lectures/lecture5) |
 | 06 | [Задачи детекции и сегментации](lectures/lecture6) |
-| 07 |  |
+| 07 | [Интерпретация моделей и metric learning](lectures/lecture7) |
 | 08 |  |
 | 09 |  |
 | 10 |  |
